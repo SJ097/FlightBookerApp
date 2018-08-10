@@ -2,11 +2,11 @@
 
 * App created for CPEN 391 design course to easily manage flight bookings
 * Communicates with Amazon Apache database to fetch and store relevant flight information and bookings
-* Google Maps API used to show user's flight history around the world
-* Airport map implemented to show user routes to terminal gate and attractions
+* Google Maps API used to show user's flight history around the world by fetching coordinates from Google's information database
+* Airport map implemented with a QR scanner to show user routes to terminal gate and attractions
 * Image size recognition designed to determine baggage size and whether it can be brought on plane
 * Information retrieved by Airport Kiosk designed in Verilog and Embedded C using an Altera DE1-SoC to check into flights quickly and easily
-* Created by Matthew Chernoff, Benjamin Hong, Sathya Jayakumar and Lam Nguyen
+* Team members: Matthew Chernoff, Benjamin Hong, Sathya Jayakumar and Lam Nguyen
 
 ## Sathya's responsibilities
 
